@@ -1,0 +1,40 @@
+*{
+    margin: 5px;
+}
+.cont2{
+    display: flex;
+    flex-direction: row;
+
+    background-color: blue;
+    height: 100%;
+    flex-wrap: wrap;
+}
+.caja{
+    background-color: gold;
+    margin: 5px;
+    height: 670px;
+    width: 470px;
+}
+.caja-1{
+    display: flex;
+    flex-direction: row;
+    height: 33%;
+}
+.caja-2{
+    display: flex;
+    flex-direction: column;
+    height: 33% 
+}
+.caja-1-1{
+    background-color: greenyellow;
+    height: 200px;
+    width: 100%;
+}
+.caja-2-1{
+    background-color: blueviolet;
+    height: 60px;
+}
+.caja-3{
+    height: 120px;
+    background-color: aqua;
+}
